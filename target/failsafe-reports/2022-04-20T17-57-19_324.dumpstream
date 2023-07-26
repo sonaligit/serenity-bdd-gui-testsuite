@@ -1,0 +1,4 @@
+# Created at 2022-04-20T17:57:20.161
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Sonali\serenity-bdd-gui-testsuite-master\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
